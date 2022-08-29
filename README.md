@@ -1,1 +1,1 @@
-# QR-Code
+# QR-Code Project for Frontend Mentor
